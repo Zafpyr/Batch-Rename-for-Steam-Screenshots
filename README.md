@@ -7,7 +7,7 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 ## Features
 - Will generate a unique name for screenshots or any file(s) really based on it's "Creation Date" and Steam's screenshot naming scheme. (eg: 20211215151122_1.jpg), will increment the digit after the underscore, so no possibility for any files to be overwritten.
 - Drag and drop functionality.
-- Configure a custom output directory for the renamed images (**Line 3** in the script), if left blank, processed files will be put in the **Batch renamed** folder on your destop instead.
-- Automatically closes and relaunches steam so that it can rescan it's screenshot directories (**Disabled by default.** Enable it on **line 7** and configure customOutDir). Also Steam's screenshot UI will be displayed as soon as steam has started backup.
+- Configure a custom output directory for the renamed images (**Line 3** in the script), if left blank, processed files will be put in the "**Batch renamed**" folder on your destop instead.
+- Automatically closes and relaunches steam so that it can rescan it's screenshot directories (**Disabled by default.** Enable it on **line 7** and configure customOutDir on **line 3**). Also Steam's screenshot UI will be displayed as soon as steam has finnished relaunching - so you can upload your screenshots.
 
 ## [Download](https://github.com/Zafpyr/Batch-Rename-for-Steam-Screenshots/releases/download/v0.1-vbs-alpha/BatchRenameForSteamScreenshots.vbs)
