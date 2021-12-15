@@ -2,7 +2,7 @@
  [![GitHub All Releases](https://img.shields.io/github/downloads/Zafpyr/Batch-Rename-for-Steam-Screenshots/total)](https://somsubhra.github.io/github-release-stats/?username=Zafpyr&repository=Batch-Rename-for-Steam-Screenshots) [![GitHub followers](https://img.shields.io/github/followers/Zafpyr.svg?style=social&label=Follow)](https://github.com/Zafpyr) [![Twitter Follow](https://img.shields.io/twitter/follow/Zafpyr.svg?style=social&label=Follow)](https://twitter.com/Zafpyr)
 
 ## About
-Ever taken screenshots of a game not with steam's built-in screenshot function and wanted to upload them to steam but didn't know how or the process was too tedious, well the script(s) in this repo will allow you do just that, provided the screenshots are in jpg format, which can be converted in bulk with various software such as Adobe Lightroom. 
+Ever taken screenshots of a game not with steam's built-in screenshot function and wanted to upload them to steam but didn't know how or the process was too tedious (if you have many), well the script(s) in here will allow you do just that, provided the images are in jpg format, which can be converted in bulk with various software such as Adobe Lightroom. 
 
 ## Features
 - Will generate a unique name for screenshots or any file(s) really based on it's "Creation Date" and Steam's screenshot naming scheme. (eg: 20211215151122_1.jpg), if the file already exists in the output directory it will increment the digit after the underscore, so no possibility for any files to be overwritten.
