@@ -12,12 +12,12 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 
 ## Usage - Quickstart
 - [Download](https://github.com/Zafpyr/Batch-Rename-for-Steam-Screenshots/releases/download/v0.1-vbs-alpha/BatchRenameForSteamScreenshots.vbs) the script
-- Batch convert any images that arn't in jpg format using Adobe Lightroom or simular (Only if they're images you wish to upload to steam).
+- Batch convert any images that arn't in jpg format using Adobe Lightroom or similar (Only if they're images you wish to upload to steam).
 - Select multiple files in Windows file explorer with either CTRL+A (All), CTRL+left mouse click (one at a time), SHIFT+left mouse click(range) or left mouse click and drag. 
 - Now click and drag like you're copying them, but drop them onto the script.
 - Now watch the ouput directory (**Default: "Batch renamed" on your desktop**)
-- Relaunch steam (if it didn't automatically, not configured to in script settings - automateSteamRelaunch on line 7).
-- Click **view** then **screenshots** in the top left of the main steam window. (if it didn't appear automatically, not configured to in script settings - automateSteamRelaunch on line 7).
+- Relaunch steam.
+- Click **view** then **screenshots** in the top left of the main steam window.
 - Select the images you wish to upload to steam as screenshots and upload them.
 
 ## Usage
@@ -28,8 +28,8 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 - Select multiple files in Windows file explorer with either CTRL+A (All), CTRL+left mouse click (one at a time), SHIFT+left mouse click(range) or left mouse click and drag. 
 - **click and drag** like you're copying them, but **drop them onto the script**.
 - Now watch the ouput directory (**Default: "Batch renamed" on your desktop**)
-- Relaunch steam if it didn't automatically (Not configured to in script settings).
-- Click **view** then **screenshots** in the top left of the main steam window.
+- Relaunch steam (if it didn't automatically, not configured to in script settings - automateSteamRelaunch on line 7).
+- Click **view** then **screenshots** in the top left of the main steam window. (if it didn't appear automatically, not configured to in script settings - automateSteamRelaunch on line 7).
 - Select the images you wish to upload to steam as screenshots and upload them.
 
 ## Notes
