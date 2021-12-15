@@ -6,6 +6,7 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 
 ## System Requirements
 Sorry Linux and Mac users, **this script will only work on Windows**.
+Yes, it will **probably** run on your Windows toaster and potato :)
 
 ## Features
 - Will generate a unique name for screenshots or any file(s) really based on it's "Creation Date" and Steam's screenshot naming scheme. (eg: 20211215151122_1.jpg), if the file already exists in the output directory it will increment the digit after the underscore, so no possibility for any files to be overwritten.
