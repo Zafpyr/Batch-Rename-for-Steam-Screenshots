@@ -9,3 +9,5 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 - Drag and drop functionality.
 - Configure a custom output directory for the renamed images (**Line 3** in the script).
 - Automatically closes and relaunches steam so that it can rescan it's screenshot directories (**Disabled by default.** Enable it on **line 7** and configure customOutDir). Also Steam's screenshot UI will be displayed as soon as steam has started backup.
+
+## [![Download](https://github.com/Zafpyr/Batch-Rename-for-Steam-Screenshots/releases/download/v0.1-vbs-alpha/BatchRenameForSteamScreenshots.vbs)
