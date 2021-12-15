@@ -18,7 +18,7 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 - Now watch the ouput directory (**Default: "Batch renamed" on your desktop**)
 - Relaunch steam.
 - Click **view** then **screenshots** in the top left of the main steam window.
-- Select the images you wish to upload to steam as screenshots and upload them.
+- Upload your screenshots!
 
 ## Usage
 - [Download](https://github.com/Zafpyr/Batch-Rename-for-Steam-Screenshots/releases/download/v0.1-vbs-alpha/BatchRenameForSteamScreenshots.vbs) the script.
