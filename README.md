@@ -21,9 +21,9 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 - [Download](https://github.com/Zafpyr/Batch-Rename-for-Steam-Screenshots/releases/download/v0.1-vbs-alpha/BatchRenameForSteamScreenshots.vbs) the script.
 - Right click on the script and open with notepad.
 - Configure customOutDir on **line 3** (Optional) eg: C:\Program Files (x86)\Steam\userdata\**UserID**\760\remote\**GameID**\screenshots replace **UserID** and **GameID** relevant to your needs. 
-- Set automateSteamRelaunch to **True** on ***line 7*** (Optional)
+- Set automateSteamRelaunch to **True** on **line 7** (Optional)
 - Select multiple files in Windows file explorer with either CTRL+A (All), CTRL+left mouse click (one at a time), SHIFT+left mouse click(range) or left mouse click and drag. 
-- Now **click and drag** like you're copying them, but **drop them onto the script**.
+- **click and drag** like you're copying them, but **drop them onto the script**.
 - Now watch the ouput directory (**Default: "Batch renamed" on your desktop**)
 ** If the script fails to close steam, you may have to tell it where steam is installed, if different from the default (C:\Program Files (x86)\Steam)
 
