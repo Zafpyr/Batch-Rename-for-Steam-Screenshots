@@ -20,6 +20,7 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 - Select multiple files in Windows file explorer with either CTRL+A (All), CTRL+left mouse click (one at a time), SHIFT+left mouse click(range), or left mouse click and drag. 
 - Now click and drag like you're copying them, but drop them onto the script.
 - Now watch the output directory (**Default: "Batch renamed" on your desktop**)
+- If needed, move the screenshots from the output directory (**Default: "Batch renamed" on your desktop**) to the steam screenshots directory relevant to the game and your account. (eg: C:\Program Files (x86)\Steam\userdata\42069\760\remote\5318008\screenshots)
 - Relaunch steam.
 - Click **view** then **screenshots** in the top left of the main steam window.
 - Upload your screenshots!
@@ -27,11 +28,12 @@ Ever taken screenshots of a game not with steam's built-in screenshot function a
 ## Usage
 - [Download](https://github.com/Zafpyr/Batch-Rename-for-Steam-Screenshots/releases/download/v0.1-vbs-alpha/BatchRenameForSteamScreenshots.vbs) the script.
 - Right-click on the script and open it with notepad.
-- Configure **customOutDir** on **line 3** (Optional) eg: C:\Program Files (x86)\Steam\userdata\**UserID**\760\remote\**GameID**\screenshots.  replace **UserID** and **GameID** relevant to your needs. 
+- Configure **customOutDir** on **line 3** (Optional) (eg: C:\Program Files (x86)\Steam\userdata\**UserID**\760\remote\**GameID**\screenshots) replace **UserID** and **GameID** relevant to your needs. 
 - Set automateSteamRelaunch to **True** on **line 7** (Optional)
 - Select multiple files in Windows file explorer with either CTRL+A (All), CTRL+left mouse click (one at a time), SHIFT+left mouse click(range), or left mouse click and drag. 
 - **click and drag** like you're copying them, but **drop them onto the script**.
 - Now watch the output directory (**Default: "Batch renamed" on your desktop**)
+- If needed, move the screenshots from the output directory (**Default: "Batch renamed" on your desktop**) to the steam screenshots directory relevant to the game and your account. (eg: C:\Program Files (x86)\Steam\userdata\42069\760\remote\5318008\screenshots)
 - Relaunch steam (if it didn't automatically, not configured to).
 - Click **view** then **screenshots** in the top left of the main steam window. (if it didn't appear automatically).
 - Select the images you wish to upload to steam as screenshots and upload them.
